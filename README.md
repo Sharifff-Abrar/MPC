@@ -1,4 +1,4 @@
-# MPC
+#NMPC
 Drag Racing Project
 
 Project OverviewThis project focused on designing a Nonlinear Model Predictive Control (NMPC) system to optimize the distance traveled by a car in the positive x-direction within a fixed time frame. The control strategy aimed to maximize distance while maintaining vehicle stability, adhering to the centerline, and avoiding a predefined obstacle.
